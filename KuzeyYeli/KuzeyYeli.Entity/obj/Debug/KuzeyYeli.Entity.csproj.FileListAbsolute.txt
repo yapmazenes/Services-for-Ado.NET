@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\KuzeyYeli.Entity.dll.config
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\KuzeyYeli.Entity.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\KuzeyYeli.Entity.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\EntityFramework.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\EntityFramework.xml
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Entity\obj\Debug\KuzeyYeli.Entity.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Entity\obj\Debug\KuzeyYeli.Entity.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Entity\obj\Debug\KuzeyYeli.Entity.pdb

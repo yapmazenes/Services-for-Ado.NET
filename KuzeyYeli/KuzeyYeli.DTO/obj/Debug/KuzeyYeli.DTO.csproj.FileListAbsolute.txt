@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.DTO\bin\Debug\KuzeyYeli.DTO.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.DTO\bin\Debug\KuzeyYeli.DTO.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.DTO\obj\Debug\KuzeyYeli.DTO.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.DTO\obj\Debug\KuzeyYeli.DTO.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.DTO\obj\Debug\KuzeyYeli.DTO.pdb

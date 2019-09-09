@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Extensions\obj\Debug\KuzeyYeli.Extensions.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Extensions\bin\Debug\KuzeyYeli.Extensions.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Extensions\bin\Debug\KuzeyYeli.Extensions.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Extensions\obj\Debug\KuzeyYeli.Extensions.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.Extensions\obj\Debug\KuzeyYeli.Extensions.pdb

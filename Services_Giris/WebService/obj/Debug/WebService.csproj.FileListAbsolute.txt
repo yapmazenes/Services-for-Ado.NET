@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\WebService\bin\WebService.dll.config
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\WebService\bin\WebService.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\WebService\bin\WebService.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\WebService\obj\Debug\WebService.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\WebService\obj\Debug\WebService.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\WebService\bin\EntityFramework.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\WebService\bin\EntityFramework.SqlServer.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\WebService\bin\EntityFramework.xml
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\WebService\bin\EntityFramework.SqlServer.xml

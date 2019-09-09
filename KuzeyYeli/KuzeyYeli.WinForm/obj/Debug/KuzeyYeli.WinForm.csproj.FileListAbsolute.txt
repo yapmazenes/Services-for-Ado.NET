@@ -1,0 +1,9 @@
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.WinForm\bin\Debug\KuzeyYeli.WinForm.exe.config
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.WinForm\bin\Debug\KuzeyYeli.WinForm.exe
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.WinForm\bin\Debug\KuzeyYeli.WinForm.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.exe
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\KuzeyYeli\KuzeyYeli.WinForm\obj\Debug\KuzeyYeli.WinForm.pdb

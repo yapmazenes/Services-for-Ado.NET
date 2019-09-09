@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WcfService\bin\WcfService.dll.config
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WcfService\bin\WcfService.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WcfService\bin\WcfService.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WcfService\obj\Debug\WcfService.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WcfService\obj\Debug\WcfService.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WcfService\bin\EntityFramework.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WcfService\bin\EntityFramework.SqlServer.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WcfService\bin\EntityFramework.xml
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WcfService\bin\EntityFramework.SqlServer.xml

@@ -1,0 +1,9 @@
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WCF_Giris\bin\Debug\WCF_Giris.exe.config
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WCF_Giris\bin\Debug\WCF_Giris.exe
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WCF_Giris\bin\Debug\WCF_Giris.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WCF_Giris\obj\Debug\WCF_Giris.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WCF_Giris\obj\Debug\WCF_Giris.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WCF_Giris\obj\Debug\WCF_Giris.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WCF_Giris\obj\Debug\WCF_Giris.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WCF_Giris\obj\Debug\WCF_Giris.exe
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\WCF_Giris\WCF_Giris\obj\Debug\WCF_Giris.pdb

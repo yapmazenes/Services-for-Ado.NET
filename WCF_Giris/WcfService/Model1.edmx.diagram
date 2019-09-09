@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e938f9c138244ac08cfa527a80dbaaf2" Name="Diagram1">
+        <EntityTypeShape EntityType="NorthwindModel.Tedarikciler" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="NorthwindModel.Urunler" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <AssociationConnector Association="NorthwindModel.FK_Urunler_Tedarikciler" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="NorthwindModel.Bolge" Width="1.5" PointX="5.375" PointY="2.875" />
+        <EntityTypeShape EntityType="NorthwindModel.Bolgeler" Width="1.5" PointX="7.625" PointY="2.75" />
+        <EntityTypeShape EntityType="NorthwindModel.Kategoriler" Width="1.5" PointX="0.75" PointY="7" />
+        <EntityTypeShape EntityType="NorthwindModel.Musteriler" Width="1.5" PointX="9.875" PointY="7.75" />
+        <EntityTypeShape EntityType="NorthwindModel.Nakliyeciler" Width="1.5" PointX="9.875" PointY="11.875" />
+        <EntityTypeShape EntityType="NorthwindModel.Personeller" Width="1.5" PointX="9.875" PointY="1.125" />
+        <EntityTypeShape EntityType="NorthwindModel.SatisDetaylari" Width="1.5" PointX="14.375" PointY="2.375" />
+        <EntityTypeShape EntityType="NorthwindModel.Satislar" Width="1.5" PointX="12.125" PointY="1.5" />
+        <AssociationConnector Association="NorthwindModel.FK_Bolgeler_Bolge" />
+        <AssociationConnector Association="NorthwindModel.FK_Urunler_Kategoriler" />
+        <AssociationConnector Association="NorthwindModel.FK_Satislar_Musteriler" />
+        <AssociationConnector Association="NorthwindModel.FK_Satislar_Nakliyeciler" />
+        <AssociationConnector Association="NorthwindModel.FK_Personeller_Personeller" />
+        <AssociationConnector Association="NorthwindModel.FK_Satislar_Personeller" />
+        <AssociationConnector Association="NorthwindModel.FK_Order_Details_Satislar" />
+        <AssociationConnector Association="NorthwindModel.FK_SatisDetaylari_Urunler" />
+        <AssociationConnector Association="NorthwindModel.PersonelBolgeler" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\Services_Giris\bin\Debug\Services_Giris.exe.config
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\Services_Giris\bin\Debug\Services_Giris.exe
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\Services_Giris\bin\Debug\Services_Giris.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\Services_Giris\obj\Debug\Services_Giris.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\Services_Giris\obj\Debug\Services_Giris.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\Services_Giris\obj\Debug\Services_Giris.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\Services_Giris\obj\Debug\Services_Giris.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\Services_Giris\obj\Debug\Services_Giris.exe
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\Services_Giris\obj\Debug\Services_Giris.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\ADO.NET\Services\Services_Giris\Services_Giris\obj\Debug\Services_Giris.TcknDogrulaForm.resources
